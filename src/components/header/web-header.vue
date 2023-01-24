@@ -182,7 +182,6 @@ import Button from '../button/index.vue';
 
 .slide-container .image-container {
     min-height: 600px;
-    background-color: green;
     padding: 0px;
     position: relative !important;
 }

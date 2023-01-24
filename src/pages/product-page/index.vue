@@ -1,7 +1,7 @@
 
 <template>
     <Mobile v-if="mobile"/>
-    <Web v-else="mobile" />
+    <Web v-else/>
 
 </template>
 <script>
