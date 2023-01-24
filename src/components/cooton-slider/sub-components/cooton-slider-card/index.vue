@@ -15,7 +15,7 @@ import ColorCircle from '../../../color-circle/index.vue';
                 <img src="/assets/icons/next-icon.png" />
             </section>
             <section class="slide-show">
-                <img src="/assets/images/Captura-de-pantalla-2022-10-18-a-las-12.572.png" />
+                <img src="/assets/images/Captura-de-pantalla-2022-10-18-a las-12.572.png" />
             </section>
         </section>
         <section class="text-section">

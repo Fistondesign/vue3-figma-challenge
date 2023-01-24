@@ -13,6 +13,9 @@ html,body{
 .icon{
   cursor: pointer;
 }
+.relative{
+  position: relative;
+}
 .info-container {
   min-height: 200px;
   background: #F5F5F4;

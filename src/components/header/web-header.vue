@@ -27,7 +27,7 @@ import Button from '../button/index.vue';
             <div class="col-lg-12 menu-logo-section">
                 <div class="row no-padding">
                     <div class="col-lg-3 logo-container">
-                        <img src="/assets/images/image 9.png" />
+                        <img src="/assets/images/image9.png" />
                     </div>
                     <div class="col-lg-9 menus-container">
                         <section>
@@ -36,7 +36,7 @@ import Button from '../button/index.vue';
                             <span>SOLUTIONS</span>
                             <span>NEWS</span>
                             <span>PROJECTS</span>
-                            <img src="/assets/icons/chevron-states (1).png" />
+                            <img src="/assets/icons/chevron-states1.png" />
                         </section>
                     </div>
                 </div>
@@ -48,7 +48,7 @@ import Button from '../button/index.vue';
             <div class="col-lg-12 no-padding">
                 <div class="row slide-container">
                     <div class="col-lg-6 col-md-12 image-container">
-                        <img src="/assets/images/Captura-de-pantalla-2022-10-18-a-las-13.081.png" class="img" />
+                        <img src="/assets/images/Captura-de-pantalla-2022-10-18-a las-13.081.png" class="img" />
                         <section class="arrows-container">
                             <img src="/assets/icons/prev-icon.png" />
                             <img src="/assets/icons/next-icon.png" />
@@ -283,7 +283,7 @@ import Button from '../button/index.vue';
     align-items: center;
     padding: 7px;
     padding-left: 0px;
-    margin-left:-22px;
+    margin-left:-12px;
     width: 100%;
     min-height: 26px;
 }
@@ -352,5 +352,11 @@ import Button from '../button/index.vue';
     padding:0px 24px;
     align-items: center;
     min-height: 60px;
+}
+@media (min-width:1900px)
+{
+    .color-section section {
+    margin-left:-22px;
+}
 }
 </style>

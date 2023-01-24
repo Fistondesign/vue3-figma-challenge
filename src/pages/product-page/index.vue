@@ -15,19 +15,20 @@ export default {
     },
     data() {
         return {
-            mobile: false
+            mobile: false,
+            size:'500'
         }
     },
     beforeMount(){
-        this.mobile = window.matchMedia("(max-width:400px)").matches;
+        this.mediaChange()
     },
     mounted() {
-        window.matchMedia("(max-width:400px)").addEventListener("change", this.mediaChange);
+        window.matchMedia(`(max-width:${this.size}px)`).addEventListener("change", this.mediaChange);
     },
     methods: {
         mediaChange() {
 
-            this.mobile = window.matchMedia("(max-width:400px)").matches;
+           this.mobile = window.matchMedia(`(max-width:${this.size}px)`).matches;
 
         }
     },

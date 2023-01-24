@@ -17,19 +17,17 @@
                     <section class="card">
                         <img src="/assets/images/Captura-de-pantalla-2022-10-18-a las-12.572.png"/>
                     </section>
-                    <section class="card">
-                        <img src="/assets/images/Captura-de-pantalla-2022-10-18-a las-12.572.png"/>
-                    </section>
-                    <section class="card">
-                        <img src="/assets/images/Captura-de-pantalla-2022-10-18-a las-12.572.png"/>
-                    </section>
-                    <section class="card">
-                        <img src="/assets/images/Captura-de-pantalla-2022-10-18-a las-12.572.png"/>
-                    </section>
-                    <section class="card">
-                        <img src="/assets/images/Captura-de-pantalla-2022-10-18-a las-12.572.png"/>
-                    </section>
 
+                    <section class="card">
+                        <img src="/assets/images/Captura-de-pantalla-2022-10-18-a las-13.081.png"/>
+                    </section>
+                    <section class="card">
+                        <img src="/assets/images/Captura-de-pantalla-2022-10-18-a-las-13.08-2.png"/>
+                    </section>
+                    <section class="card">
+                        <img src="/assets/images/Captura-de-pantalla-2022-10-18-a las-12.572.png"/>
+                    </section>
+                    
                 </div>
             </section>
         </div>

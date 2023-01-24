@@ -20,7 +20,7 @@
             </div>
             <div class="col-lg-12 sectionII">
                 <div class="row">
-                    <div class="col-lg-4 col-md-12">
+                    <div class="col-lg-4 col-md-12 relative">
                         <p class="p-text">Dal 1947 lo spirito imprenditoriale <b>MARTINELLIGINETTO</b> si fonda sulle
                             competenze tecniche,
                             l’utilizzo delle tecnologie tessili più avanzate e sulla capacità di mobilitare energie
@@ -134,6 +134,7 @@
     line-height: 20px;
     letter-spacing: 2px;
     word-wrap: break-word;
+    margin-top:10px;
     width: 392px;
 }
 
@@ -214,7 +215,7 @@
     margin-top: 32px;
 }
 
-.sectionIV .left {
+.sectionIV .left,.right {
     display: flex;
     align-items: center;
     justify-content:flex-start;
@@ -237,10 +238,6 @@
 {
     margin-left:7rem;
 }
-.sectionIV .right{
-    display:flex;
-    justify-content:center;
-}
 
 @media (max-width: 599px) {
     .footer {
@@ -262,5 +259,21 @@
 .logo-section .logo {
     margin-left:2px;
 }
+}
+@media (max-width:500px)
+{
+    .sectionIV{
+        display: flex;
+        flex-direction:column-reverse;
+    }
+.p-text::before{
+    position:absolute;
+    width:80%;
+    height:30px;
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+    content: '';
+}
+
+
 }
 </style>

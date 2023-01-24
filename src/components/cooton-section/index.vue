@@ -73,10 +73,16 @@
                 <p>Organic cotton award</p>
             </section>
             <div class="col-lg-12">
-                <div class="image-container">
-                    <img src="/assets/images/Bitmap.png" />
-                    <img src="/assets/images/Bitmap1.png">
-                    <img src="/assets/images/Bitmap.png" />
+                <div class="row image-container">
+                    <section class="col-lg-4 col-md-12 col-sm-12">
+                        <img src="/assets/images/Bitmap.png" />
+                    </section>
+                    <section class="col-lg-4 col-md-12 col-sm-12">
+                        <img src="/assets/images/Bitmap1.png">
+                    </section>
+                    <section class="col-lg-4 col-md-12 col-sm-12">
+                        <img src="/assets/images/Bitmap.png"/>
+                    </section>
                 </div>
             </div>
         </div>
@@ -136,7 +142,6 @@
     padding: 16px 23px 54px;
 }
 
-.cotton-award .cotton-text-award-section {}
 
 .cotton-award .cotton-text-award-section {
     display: flex;
@@ -156,15 +161,34 @@
 
 .cotton-award .image-container {
     width: 100%;
-    display: column;
+    display: flex;
+    flex-flow: wrap;
     align-items: flex-start;
-    column-count: auto;
-    column-gap: 10px;
 }
 
-.cotton-award .image-container img {
-    width: auto;
+.cotton-award .image-container section {
     height: auto;
+    width:100%;
+    background:red;
+    margin:10px;
+    padding:0px;
+}
+.cotton-award .image-container section img{
+    height:300px;
+    width:100%;
+    object-fit:cover;
+}
+
+.cotton-award .image-container section::after {
+    content: '';
+    position: absolute;
+    border-radius: 50%;
+    width: 46.88px;
+    height: 48px;
+    top:40%;
+    left:50%;
+    background: #FFFFFF;
+    border:12px solid rgba(30, 30, 30, 0.75);
 }
 
 .cooton-info {
@@ -215,17 +239,18 @@
     }
 
     .cotton-container .cotton-text-section {
-        display:flex;
-        margin-left:-7rem;
+        display: flex;
+        margin-left: -7rem;
     }
-    .cotton-award{
-        display:none;
+
+    .cotton-award {
+        display: none;
     }
 }
-@media (max-width:599px)
-{
-    .cooton-info{
-        display:none;
+
+@media (max-width:599px) {
+    .cooton-info {
+        display: none;
     }
 }
 </style>

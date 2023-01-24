@@ -43,7 +43,7 @@ const search = ref(null);
                 <img src="/assets/icons/next-icon.png" />
             </section>
             <section class="slide-show">
-                <img src="/assets/images/Captura-de-pantalla-2022-10-18-a-las-13.081.png" />
+                <img src="/assets/images/Captura-de-pantalla-2022-10-18-a las-13.081.png" />
             </section>
         </section>
     </div>
@@ -128,10 +128,12 @@ const search = ref(null);
     letter-spacing: 2px;
     line-height: 16px;
     outline: none;
+    color: rgba(30, 30, 30, 0.5);
 }
 
 .navbar .search-container input::placeholder {
-    color: rgba(30, 30, 30, 0.5);
+    font-size:12px;
+    letter-spacing:1px;
 }
 
 .navbar .search-container button {
