@@ -8,10 +8,10 @@ import Button from '../button/index.vue';
         <div class="row no-padding">
             <div class="col-lg-12 no-padding">
                 <div class="row navbar">
-                    <div class="col-lg-4 logo-container">
+                    <div class="col-lg-4 col-md-12 logo-container">
                         <img src="/assets/images/Neg_MartinelliGinettoGroup_Esteso_home1.png" />
                     </div>
-                    <div class="col-lg-8 actions">
+                    <div class="col-lg-8 col-md-12 actions">
                         <section class="actions-container">
                             <section class="login-action">
                                 <img src="/assets/icons/user.png" class="icon" />
@@ -94,7 +94,7 @@ import Button from '../button/index.vue';
 </template>
 <style scoped>
 .navbar {
-    height: 70px;
+    min-height: 70px;
     background: #000000;
 }
 
@@ -358,5 +358,6 @@ import Button from '../button/index.vue';
     .color-section section {
     margin-left:-22px;
 }
+
 }
 </style>

@@ -11,6 +11,21 @@
                 <section>
                     <CootonSliderCard />
                 </section>
+                <section>
+                    <CootonSliderCard />
+                </section>
+                <section>
+                    <CootonSliderCard />
+                </section>
+                <section>
+                    <CootonSliderCard />
+                </section>
+                <section>
+                    <CootonSliderCard />
+                </section>
+                <section>
+                    <CootonSliderCard />
+                </section>
             </div>
             <div class="col-lg-12 arrows-dots-container">
 

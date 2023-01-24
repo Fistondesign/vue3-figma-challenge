@@ -10,6 +10,10 @@
             <div class="col-lg-12 content">
                 <InfoSliderCard/>
                 <InfoSliderCard />
+                <InfoSliderCard />
+                <InfoSliderCard />
+                <InfoSliderCard />
+                <InfoSliderCard />
             </div>
             <div class="col-lg-12 arrows-dots-container">
 

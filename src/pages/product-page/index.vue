@@ -16,7 +16,7 @@ export default {
     data() {
         return {
             mobile: false,
-            size:'500'
+            size:'800'
         }
     },
     beforeMount(){
