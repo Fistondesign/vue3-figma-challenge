@@ -9,8 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "bootstrap": "^5.2.3",
-    "bootstrap-vue": "^2.23.1",
     "oh-vue-icons": "^1.0.0-rc3",
     "vue": "3.2.26",
     "vue-slick-carousel": "^1.0.6"
