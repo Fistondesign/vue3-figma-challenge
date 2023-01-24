@@ -348,4 +348,11 @@ const search = ref(null);
     min-height:200px;
     padding:16px;
 }
+@media (max-width:400px)
+{
+    .color-section section{
+        padding-right:20px;
+        row-gap:20px;
+    }
+}
 </style>
