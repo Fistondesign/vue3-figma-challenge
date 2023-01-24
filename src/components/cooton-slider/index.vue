@@ -14,7 +14,7 @@
             </div>
             <div class="col-lg-12 arrows-dots-container">
 
-                <img src="../../assets/icons/Left.png" />
+                <img src="/assets/icons/Left.png" />
 
                 <section class="dots-container">
                     <span class="active">1</span>
@@ -23,27 +23,27 @@
 
                 </section>
 
-                <img src="../../assets/icons/Right.png" />
+                <img src="/assets/icons/Right.png" />
             </div>
         </div>
         <div class="row about-section">
             <div class="col-lg-4 col-md-12  col-sm-12 item">
-                <img src="../../assets/icons/tick-circle.png" />
+                <img src="/assets/icons/tick-circle.png" />
                 <p>Customer care</p>
                 <section class="divider"></section>
             </div>
             <div class="col-lg-4 col-md-12 col-sm-12 item ">
-                <img src="../../assets/icons/3d-rotate.png" />
+                <img src="/assets/icons/3d-rotate.png" />
                 <p>returns</p>
                 <section class="divider"></section>
             </div>
             <div class="col-lg-4 col-md-12 col-sm-12 item ">
-                <img src="../../assets/icons/card-pos.png" />
+                <img src="/assets/icons/card-pos.png" />
                 <p>payments</p>
                 <section class="divider"></section>
             </div>
             <div class="col-lg-4 col-md-12 col-sm-12 item ">
-                <img src="../../assets/icons/truck-fast.png" />
+                <img src="/assets/icons/truck-fast.png" />
                 <p>shipping</p>
                 <section class="divider"></section>
             </div>

@@ -8,27 +8,27 @@
                 <p>Typically used for</p>
             </div>
             <div class="col-lg-2 col-sm-12 item">
-                <img src="../../assets/icons/bedding.png" />
+                <img src="/assets/icons/bedding.png" />
                 <span>Bedding</span>
                 <section class="divider"></section>
             </div>
             <div class="col-lg-2 col-sm-12 item">
-                <img src="../../assets/icons/courtains.png" />
+                <img src="/assets/icons/courtains.png" />
                 <span>courtains</span>
                 <section class="divider"></section>
             </div>
             <div class="col-lg-3 col-sm-12 item">
-                <img src="../../assets/icons/hospitality.png" />
+                <img src="/assets/icons/hospitality.png" />
                 <span>hospital & yachting</span>
                 <section class="divider"></section>
             </div>
             <div class="col-lg-2 col-sm-12 item">
-                <img src="../../assets/icons/homedecor.png" />
+                <img src="/assets/icons/homedecor.png" />
                 <span>home decor</span>
                 <section class="divider"></section>
             </div>
             <div class="col-lg-2 col-sm-12 item">
-                <img src="../../assets/icons/table.png" />
+                <img src="/assets/icons/table.png" />
                 <span>table</span>
                 <section class="divider"></section>
             </div>

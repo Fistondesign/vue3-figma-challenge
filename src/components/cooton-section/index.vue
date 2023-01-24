@@ -47,12 +47,12 @@
                 </section>
             </div>
             <div class="col-lg-6 col-md-12 image-container">
-                <img src="../../assets/images/Bitmap (2).png" />
+                <img src="/assets/images/Bitmap2.png" />
             </div>
         </div>
         <div class="row cotton-container">
             <section class="col-lg-6 col-md-12 image-container">
-                <img src="../../assets/images/image 12.png" />
+                <img src="/assets/images/image12.png" />
             </section>
             <section class="col-lg-6 col-md-12 cotton-text-section">
                 <p>Organic cotton award</p>
@@ -74,9 +74,9 @@
             </section>
             <div class="col-lg-12">
                 <div class="image-container">
-                    <img src="../../assets/images/Bitmap.png" />
-                    <img src="../../assets/images/Bitmap (1).png">
-                    <img src="../../assets/images/Bitmap.png" />
+                    <img src="/assets/images/Bitmap.png" />
+                    <img src="/assets/images/Bitmap1.png">
+                    <img src="/assets/images/Bitmap.png" />
                 </div>
             </div>
         </div>

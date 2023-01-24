@@ -10,7 +10,7 @@ function handleToggle() {
     <div class="accordion">
         <section class="header" @click="handleToggle">
             <span :class="{'active':toggle,'title':!toggle}">{{ props.title }}</span>
-            <img src="../../assets/icons/arrow-up.png" :class="{ 'rotate': toggle }" />
+            <img src="/assets/icons/arrow-up.png" :class="{ 'rotate': toggle }" />
         </section>
         <section class="content" v-if="toggle">
             <slot></slot>

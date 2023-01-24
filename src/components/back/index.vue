@@ -4,7 +4,7 @@
 
 <template>
     <div class="container-back">
-        <img src="../../assets/icons/arrow-back.png" />
+        <img src="/assets/icons/arrow-back.png" />
         <span>Back</span>
     </div>
 </template>

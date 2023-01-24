@@ -13,7 +13,7 @@
             </div>
             <div class="col-lg-12 arrows-dots-container">
 
-                <img src="../../assets/icons/Left.png" />
+                <img src="/assets/icons/Left.png" />
 
                 <section class="dots-container">
                     <span class="active">1</span>
@@ -22,7 +22,7 @@
                     
                 </section>
 
-                <img src="../../assets/icons/Right.png" />
+                <img src="/assets/icons/Right.png" />
             </div>
         </div>
     </div>

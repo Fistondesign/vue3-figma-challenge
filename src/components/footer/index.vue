@@ -6,13 +6,13 @@
             <div class="col-lg-12 ">
                 <div class="row">
                     <div class="col-lg-6 col-sm-12">
-                        <img src="../../assets/logoFooter.png" />
+                        <img src="/assets/logoFooter.png" />
                     </div>
                     <div class="col-lg-6 col-sm-12 sectionI">
                         <section class="sectionI-icons">
                             <span>Contatti</span>
-                            <img src="../../assets/icons/instagram.png" class="icon" />
-                            <img src="../../assets/icons/fIcon.png" class="icon" />
+                            <img src="/assets/icons/instagram.png" class="icon" />
+                            <img src="/assets/icons/fIcon.png" class="icon" />
                         </section>
 
                     </div>
@@ -62,15 +62,15 @@
             <div class="col-lg-12 sectionIII">
                 <div class="row">
                     <div class="col-lg-4 col-md-12 logo-section">
-                        <img src="../../assets/Group 2415.png" />
-                        <img src="../../assets/Frame 2234.png" class="logo" />
+                        <img src="/assets/Group2415.png" />
+                        <img src="/assets/Frame2234.png" class="logo" />
                     </div>
                     <div class="col-lg-4 col-md-12 logo-section">
-                        <img src="../../assets/Frame.png" class="logo" />
-                        <img src="../../assets/nord_ciniglia.png" class="logo" />
+                        <img src="/assets/Frame.png" class="logo" />
+                        <img src="/assets/nord_ciniglia.png" class="logo" />
                     </div>
                     <div class="col-lg-4 col-md-12 logo-section logo-end">
-                        <img src="../../assets/Logo-MSB_scontornato_W.png" class="logo" />
+                        <img src="/assets/Logo-MSB_scontornato_W.png" class="logo" />
                     </div>
                 </div>
             </div>

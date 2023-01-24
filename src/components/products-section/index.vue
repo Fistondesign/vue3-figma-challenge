@@ -8,26 +8,26 @@
             <section class="col-lg-12 header">
                 <p>Products you might like</p>
                 <span>
-                    <img src="../../assets/icons/keyboard_backspace.png" />
-                    <img src="../../assets/icons/east (1).png" />
+                    <img src="/assets/icons/keyboard_backspace.png" />
+                    <img src="/assets/icons/east1.png" />
                 </span>
             </section>
             <section class="col-lg-12 content">
                 <div class="cards-slider">
                     <section class="card">
-                        <img src="../../assets/images/Captura de pantalla 2022-10-18 a las 13.08 2.png"/>
+                        <img src="/assets/images/Captura-de-pantalla-2022-10-18-a las-12.572.png"/>
                     </section>
                     <section class="card">
-                        <img src="../../assets/images/Captura de pantalla 2022-10-18 a las 13.08 2.png"/>
+                        <img src="/assets/images/Captura-de-pantalla-2022-10-18-a las-12.572.png"/>
                     </section>
                     <section class="card">
-                        <img src="../../assets/images/Captura de pantalla 2022-10-18 a las 13.08 1.png"/>
+                        <img src="/assets/images/Captura-de-pantalla-2022-10-18-a las-12.572.png"/>
                     </section>
                     <section class="card">
-                        <img src="../../assets/images/Captura de pantalla 2022-10-18 a las 13.08 2.png"/>
+                        <img src="/assets/images/Captura-de-pantalla-2022-10-18-a las-12.572.png"/>
                     </section>
                     <section class="card">
-                        <img src="../../assets/images/Captura de pantalla 2022-10-18 a las 13.08 2.png"/>
+                        <img src="/assets/images/Captura-de-pantalla-2022-10-18-a las-12.572.png"/>
                     </section>
 
                 </div>

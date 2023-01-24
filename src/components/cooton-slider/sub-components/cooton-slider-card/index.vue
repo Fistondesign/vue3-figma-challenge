@@ -5,24 +5,24 @@ import ColorCircle from '../../../color-circle/index.vue';
     <div class="card">
         <section class="slide-main-container">
             <div class="icon-title-container">
-                <img src="../../../../assets/icons/heart.png" />
+                <img src="/assets/icons/heart.png" />
                 <section class="title">
                     <small>Cutting service available</small>
                 </section>
             </div>
             <section class="arrows-container">
-                <img src="../../../../assets/icons/prev-icon.png" />
-                <img src="../../../../assets/icons/next-icon.png" />
+                <img src="/assets/icons/prev-icon.png" />
+                <img src="/assets/icons/next-icon.png" />
             </section>
             <section class="slide-show">
-                <img src="../../../../assets/images/Captura de pantalla 2022-10-18 a las 12.57 2.png" />
+                <img src="/assets/images/Captura-de-pantalla-2022-10-18-a-las-12.572.png" />
             </section>
         </section>
         <section class="text-section">
             <p>Lorem ipsum dolor sit amet</p>
         </section>
         <section class="logo-section">
-            <img src="../../../../assets/images/Brignoli 1.png" />
+            <img src="/assets/images/Brignoli1.png" />
         </section>
         <section class="currency-section">
             <span>from $12.00/meter </span>

@@ -9,16 +9,16 @@ import Button from '../button/index.vue';
             <div class="col-lg-12 no-padding">
                 <div class="row navbar">
                     <div class="col-lg-4 logo-container">
-                        <img src="../../assets/images/Neg_MartinelliGinettoGroup_Esteso_home 1.png" />
+                        <img src="/assets/images/Neg_MartinelliGinettoGroup_Esteso_home1.png" />
                     </div>
                     <div class="col-lg-8 actions">
                         <section class="actions-container">
                             <section class="login-action">
-                                <img src="../../assets/icons/user.png" class="icon" />
+                                <img src="/assets/icons/user.png" class="icon" />
                                 <small class="title">Login</small>
                             </section>
                             <span class="humbger-icon">
-                                <img src="../../assets/icons/menu.png" class="icon" />
+                                <img src="/assets/icons/menu.png" class="icon" />
                             </span>
                         </section>
                     </div>
@@ -27,16 +27,16 @@ import Button from '../button/index.vue';
             <div class="col-lg-12 menu-logo-section">
                 <div class="row no-padding">
                     <div class="col-lg-3 logo-container">
-                        <img src="../../assets/images/image 9.png" />
+                        <img src="/assets/images/image 9.png" />
                     </div>
                     <div class="col-lg-9 menus-container">
                         <section>
                             <span>CATALOG</span>
-                            <img src="../../assets/icons/chevron-states.png" />
+                            <img src="/assets/icons/chevron-states.png" />
                             <span>SOLUTIONS</span>
                             <span>NEWS</span>
                             <span>PROJECTS</span>
-                            <img src="../../assets/icons/chevron-states (1).png" />
+                            <img src="/assets/icons/chevron-states (1).png" />
                         </section>
                     </div>
                 </div>
@@ -48,10 +48,10 @@ import Button from '../button/index.vue';
             <div class="col-lg-12 no-padding">
                 <div class="row slide-container">
                     <div class="col-lg-6 col-md-12 image-container">
-                        <img src="../../assets/images/Captura de pantalla 2022-10-18 a las 13.08 1.png" class="img" />
+                        <img src="/assets/images/Captura-de-pantalla-2022-10-18-a-las-13.081.png" class="img" />
                         <section class="arrows-container">
-                            <img src="../../assets/icons/prev-icon.png" />
-                            <img src="../../assets/icons/next-icon.png" />
+                            <img src="/assets/icons/prev-icon.png" />
+                            <img src="/assets/icons/next-icon.png" />
                         </section>
                     </div>
                     <div class="col-lg-6 col-md-12 content-section">

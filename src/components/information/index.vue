@@ -40,32 +40,32 @@ import Accordion from '../accordion/index.vue';
                         <section class="item-detail">
                             <p>Care</p>
                             <section class="icons-container">
-                                <img src="../../assets/icons/Group (3).png" />
-                                <img src="../../assets/icons/Group.png" />
-                                <img src="../../assets/icons/Group (1).png" />
-                                <img src="../../assets/icons/Group (2).png" />
+                                <img src="/assets/icons/Group3.png" />
+                                <img src="/assets/icons/Group.png" />
+                                <img src="/assets/icons/Group1.png" />
+                                <img src="/assets/icons/Group2.png" />
                             </section>
                             <section class="opcion">
                                 <section class="header">
-                                    <img src="../../assets/icons/Group (3).png" />
+                                    <img src="/assets/icons/Group3.png" />
                                     <span>Lorem ipsum</span>
                                 </section>
                                 <section class="content">
-                                    <img src="../../assets/images/range1.png" />
+                                    <img src="/assets/images/range1.png" />
                                 </section>
                             </section>
                             <section class="opcion">
                                 <section class="header">
-                                    <img src="../../assets/icons/Group.png" />
+                                    <img src="/assets/icons/Group.png" />
                                     <span>Lorem ipsum</span>
                                 </section>
                                 <section class="content">
-                                    <img src="../../assets/images/range.png" />
+                                    <img src="/assets/images/range.png" />
                                 </section>
                             </section>
                             <section class="opcion">
                                 <section class="header">
-                                    <img src="../../assets/icons/Group.png" />
+                                    <img src="/assets/icons/Group.png" />
                                     <span>Lorem ipsum</span>
                                 </section>
                                 <section class="content">
@@ -74,7 +74,7 @@ import Accordion from '../accordion/index.vue';
                             </section>
                             <section class="opcion">
                                 <section class="header">
-                                    <img src="../../assets/icons/Group.png" />
+                                    <img src="/assets/icons/Group.png" />
                                     <span>Lorem ipsum</span>
                                 </section>
                                 <section class="content">
@@ -85,11 +85,11 @@ import Accordion from '../accordion/index.vue';
                         </section>
 
                         <section class="mews-section">
-                            <img src="../../assets/images/mews.png" />
+                            <img src="/assets/images/mews.png" />
                         </section>
 
                         <section class="download-section">
-                          <img src="../../assets/icons/document-download.png"/>
+                          <img src="/assets/icons/document-download.png"/>
                           <span>Download technical sheet</span>
                         </section>
 

@@ -8,13 +8,13 @@ const search = ref(null);
 <template>
     <div class="navbar">
         <section class="logo-menu-container">
-            <img src="../../assets/logo.png" />
+            <img src="/assets/logo.png" />
             <section class="menus">
-                <img src="../../assets/icons/user.png" class="icon" />
-                <img src="../../assets/icons/heart.png" class="icon" />
-                <img src="../../assets/icons/shopping-cart.png" class="icon" />
+                <img src="/assets/icons/user.png" class="icon" />
+                <img src="/assets/icons/heart.png" class="icon" />
+                <img src="/assets/icons/shopping-cart.png" class="icon" />
                 <span class="humbger-icon">
-                    <img src="../../assets/icons/menu.png" class="icon" />
+                    <img src="/assets/icons/menu.png" class="icon" />
                 </span>
             </section>
         </section>
@@ -33,17 +33,17 @@ const search = ref(null);
         <section class="title">Canapone</section>
         <section class="slide-main-container">
             <div class="icon-title-container">
-                <img src="../../assets/icons/heart.png" />
+                <img src="/assets/icons/heart.png" />
                 <section class="title">
                     <small>Cutting service available</small>
                 </section>
             </div>
             <section class="arrows-container">
-                <img src="../../assets/icons/prev-icon.png" />
-                <img src="../../assets/icons/next-icon.png" />
+                <img src="/assets/icons/prev-icon.png" />
+                <img src="/assets/icons/next-icon.png" />
             </section>
             <section class="slide-show">
-                <img src="../../assets/images/Captura de pantalla 2022-10-18 a las 13.08 1.png" />
+                <img src="/assets/images/Captura-de-pantalla-2022-10-18-a-las-13.081.png" />
             </section>
         </section>
     </div>

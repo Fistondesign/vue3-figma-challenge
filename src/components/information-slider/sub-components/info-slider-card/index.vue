@@ -4,7 +4,7 @@
 <template>
     <div class="card">
         <section class="image-container">
-            <img src="../../../../assets/images/DIAMANTE_PREMIUM_PCAR0064_1.png"/>
+            <img src="/assets/images/DIAMANTE_PREMIUM_PCAR0064_1.png"/>
         </section>
         <section class="text-section">
             <p>Fabric swatch <span class="paragraph-span">(15x15 cm)</span></p>
