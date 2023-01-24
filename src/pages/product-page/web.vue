@@ -16,8 +16,4 @@ import ProductsSection from '../../components/products-section/index.vue';
 </template>
 
 <style scoped>
-.web-container {
-  background: red;
-  min-height: 500px;
-}
 </style>
