@@ -93,7 +93,7 @@ export default {
     gap: 50px;
     min-height: 416px;
     margin-top: 24px;
-    overflow-x: hidden;
+    overflow-x:scroll;
 }
 
 .arrows-dots-container {

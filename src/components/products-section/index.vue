@@ -76,7 +76,7 @@
     display: flex;
     align-items: center;
     margin-top: 41.76px;
-    overflow-x: hidden;
+    overflow-x: scroll;
 }
 
 .products-section .content .cards-slider .card {

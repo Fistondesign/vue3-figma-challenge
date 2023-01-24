@@ -114,7 +114,7 @@ export default {
     gap: 50px;
     min-height: 416px;
     margin-top: 14px;
-    overflow-x: hidden;
+    overflow-x:scroll;
     padding-left: 16px;
 }
 
